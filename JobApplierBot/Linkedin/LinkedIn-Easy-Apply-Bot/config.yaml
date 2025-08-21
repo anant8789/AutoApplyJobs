@@ -1,0 +1,40 @@
+username: ananthlangote0317@gmail.com
+password: Anant@2713
+phone_number: 9972459442
+
+profile_path: '' #can be empty, will default to 'C:\Users\<user>\AppData\Local\Google\Chrome\User Data\Default'
+
+
+positions:
+- Software Engineer
+- Software Developer
+- Java Developer
+- Spring Developer
+
+
+locations:
+- Bengaluru
+- Remote
+
+salary: 60,000
+rate: 25
+# --------- Optional Parameters -------
+uploads:
+  Resume: C:\Users\Admin\Downloads/Anant_cv.pdf
+  #Cover Letter: C:\Users\pavan\Downloads\Pavan_NV_Resume.pdf
+  #Photo: # PATH TO photo
+
+
+output_filename:
+- /Users\Admin\Desktop\Linkedin/out.csv
+
+# blacklist:
+- Alten
+
+experience_level:
+  # - 1 # Entry level
+  - 2 # Associate
+  - 3 # Mid-Senior level
+  # - 4 # Director
+  # - 5 # Executive
+  # - 6 # Internship
