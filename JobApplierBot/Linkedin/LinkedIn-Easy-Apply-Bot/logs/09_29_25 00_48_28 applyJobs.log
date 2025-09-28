@@ -1,0 +1,38 @@
+./logs/29-Sep-25 00:48:28::__main__::INFO::{'phone_number': 9972459442, 'profile_path': '', 'positions': ['Software Engineer', 'Software Developer', 'Java Developer', 'Spring Developer'], 'locations': ['Bengaluru', 'Remote'], 'salary': '60,000', 'rate': 25, 'uploads': {'Resume': 'C:\\Users\\Admin\\Downloads/Anant_Resume_2025.pdf'}, 'output_filename': ['/Users\\Admin\\Desktop\\Linkedin/out.csv', 'Alten'], 'experience_level': [2, 3]}
+./logs/29-Sep-25 00:48:28::__main__::INFO::Welcome to Easy Apply Bot
+./logs/29-Sep-25 00:48:28::__main__::INFO::current directory is : C:\Users\Admin\Desktop\AutoApply\AutoApplyJobs\JobApplierBot\Linkedin\LinkedIn-Easy-Apply-Bot
+./logs/29-Sep-25 00:48:28::__main__::INFO::Please wait while we prepare the bot for you
+./logs/29-Sep-25 00:48:28::__main__::INFO::Applying for experience level roles: Associate, Mid-Senior level
+./logs/29-Sep-25 00:48:28::__main__::INFO::'utf-8' codec can't decode byte 0x96 in position 15: invalid start byte   jobIDs could not be loaded from CSV /Users\Admin\Desktop\Linkedin/out.csv
+./logs/29-Sep-25 00:48:33::__main__::INFO::Logging in.....Please wait :)  
+./logs/29-Sep-25 00:49:06::__main__::INFO::Login successful
+./logs/29-Sep-25 00:49:07::__main__::INFO::Applying to Java Developer: Remote
+./logs/29-Sep-25 00:49:07::__main__::INFO::Looking for jobs.. Please wait..
+./logs/29-Sep-25 00:49:22::__main__::INFO::Loading next job page?
+./logs/29-Sep-25 00:49:32::__main__::INFO::Looking for jobs.. Please wait..
+./logs/29-Sep-25 00:49:32::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:49:32::__main__::DEBUG::Sleeping for 2.1
+./logs/29-Sep-25 00:49:55::__main__::INFO::The Easy apply button does not exist.
+./logs/29-Sep-25 00:49:55::__main__::INFO::
+Position 4306028291:
+  
+ * Doesn't have Easy Apply Button 
+
+./logs/29-Sep-25 00:49:55::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:49:55::__main__::DEBUG::Sleeping for 2.6
+./logs/29-Sep-25 00:50:06::__main__::INFO::Loading next job page?
+./logs/29-Sep-25 00:50:18::__main__::INFO::58.0 minutes left in this search
+./logs/29-Sep-25 00:50:18::__main__::DEBUG::Sleeping for 2.4
+./logs/29-Sep-25 00:50:36::__main__::INFO::The Easy apply button does not exist.
+./logs/29-Sep-25 00:50:36::__main__::INFO::
+Position 4306064378:
+  
+ * Doesn't have Easy Apply Button 
+
+./logs/29-Sep-25 00:50:36::__main__::INFO::58.0 minutes left in this search
+./logs/29-Sep-25 00:50:36::__main__::DEBUG::Sleeping for 2.5
+./logs/29-Sep-25 00:50:50::__main__::INFO::Loading next job page?
+./logs/29-Sep-25 00:50:59::__main__::INFO::58.0 minutes left in this search
+./logs/29-Sep-25 00:50:59::__main__::DEBUG::Sleeping for 1.9
+./logs/29-Sep-25 00:51:03::__main__::INFO::58.0 minutes left in this search
+./logs/29-Sep-25 00:51:03::__main__::DEBUG::Sleeping for 1.5

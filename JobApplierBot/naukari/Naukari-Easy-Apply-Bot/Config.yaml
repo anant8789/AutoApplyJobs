@@ -1,7 +1,13 @@
 naukri:
-  email: ananthlangote0317@@gmail.com
+  email: ananthlangote0317@gmail.com
   password: Anant@2713
   role: "java developer"
   location: "bengaluru"
   max_pages: 10
   max_applications: 1000
+  gemini_api_key: YOUR_GEMINI_API_KEY # Gemini API key for answering questions
+
+browser:
+  use_default_profile: false # Set to true to use default Chrome profile
+  headless: false # Set to true to run browser in headless mode
+  window_size: "1920,1080" # Browser window size (width,height)

@@ -39,6 +39,7 @@ resume_data = """
   "contact": {
     "phone": "9972459442",
     "email": "ananthlangote0317@gmail.com"
+    "linkedin": "https://www.linkedin.com/in/anant-langote-544030241"
   },
   "education": [
     {
@@ -47,57 +48,50 @@ resume_data = """
       "startDate": "2018",
       "endDate": "2022",
       "cgpa": "7.9"
-    },
-    {
-      "degree": "PU Science",
-      "institution": "Diamond Independent PU Science College, Bhalki",
-      "startDate": "2016",
-      "endDate": "2018",
-      "percentage": "83.33"
-    },
-    {
-      "degree": "SSLC",
-      "institution": "Govt Morarji Desai Lingeri STN, Yadgir",
-      "startDate": "2015",
-      "endDate": "2016",
-      "percentage": "78.88"
     }
   ],
   "skills": {
-    "languages": ["Java", "JavaFX", "C++", "Python", "SQL", "MySQL", "MariaDB"],
-    "frameworks": ["Spring Boot", "Microservices"],
-    "tools": ["Confluence", "Enterprise Architect", "DrawIO", "Apache JMeter", "Git"],
+    "languages": ["Java", "JavaFX",  "SQL", "MySQL", "MariaDB"],
+    "frameworks": ["Spring Boot", "JavaFX"],
+    "tools": ["Confluence", Visual Studio Code", "IntelliJ", "Eclipse", "Enterprise Architect", "DrawIO", "Apache JMeter", "Git"],
     "testing": ["JUnit", "FxRobot (GUI Testing)"],
+	"scripting": ["Bash"],
     "os": ["Linux"],
-    "other": ["XML", "XSD"]
+    "softSkills": ["Communication", "Collaboration", "Adaptability", "Time Management"]
   },
   "languages": ["Marathi", "Kannada", "English", "Hindi"],
   "experience": [
     {
       "title": "Software Engineer",
-      "company": "ALTEN Global Technologies Pvt Ltd",
-      "location": "Bangalore",
+      "company": "Alten Global Technology Pvt Ltd",
+      "location": "Bengaluru, India",
       "startDate": "Nov 2022",
       "endDate": "Present",
       "responsibilities": [
-        "Designed and implemented software using Java, C++, SQL, MySQL, and MariaDB.",
-        "Collaborated with stakeholders to gather requirements and create UML designs.",
-        "Developed performance testing frameworks using Apache JMeter.",
-        "Wrote and maintained protobuf messages for client-server communication.",
-        "Developed user interfaces using JavaFX in a Linux environment.",
-        "Debugged and resolved production-level issues.",
-        "Contributed to version control with Git and documentation using Confluence."
+        "Developed charts and processed cartographic data for sonar systems using Java and Spring Boot.",
+        "Performed mosaic calculations for active, passive, and ray data, improving analysis efficiency by 15%.",
+        "Integrated calculations into real-time apps for seamless system performance."
       ]
     }
   ],
   "projects": [
     {
-      "name": "Sonar Application Development for Ultra CSS (Defence)",
-      "year": "2022 - Present",
-      "description": "Developing client-server communication with protobuf, designing software using Java, JavaFX, and C++ in Linux, ensuring timely delivery of project milestones."
+      "name": "Sonar Application for Ultra CSS",
+      "year": "2023",
+      "description": "Designed a JavaFX-Spring Boot sonar app for real-time visualization aligned to client requirements."
+    },
+    {
+      "name": "Test Harness Tool",
+      "description": "Built tool to test sonar plugins on laptops, replacing need for lab environment."
+    },
+    {
+      "name": "Employee Engagement Tool",
+      "description": "Created tool to help new joiners onboard and learn project-related content efficiently."
     }
   ],
-  "summary": "Software Engineer with 2.9 years of experience in designing and maintaining scalable software solutions. Skilled in Java, C++, Python, databases, and testing frameworks. Experienced in performance testing, GUI automation, and collaborative development using Git, Confluence, and Enterprise Architect."
+  "activities": [
+    "Led a team to win two hackathons, demonstrating technical and leadership skills."
+  ]
 }
 """
 

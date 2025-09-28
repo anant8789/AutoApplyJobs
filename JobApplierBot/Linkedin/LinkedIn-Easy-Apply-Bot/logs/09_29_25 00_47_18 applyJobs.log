@@ -1,0 +1,566 @@
+./logs/29-Sep-25 00:47:18::__main__::INFO::{'phone_number': 9972459442, 'profile_path': '', 'positions': ['Software Engineer', 'Software Developer', 'Java Developer', 'Spring Developer'], 'locations': ['Bengaluru', 'Remote'], 'salary': '60,000', 'rate': 25, 'uploads': {'Resume': 'C:\\Users\\Admin\\Downloads/Anant_Resume_2025.pdf'}, 'output_filename': ['/Users\\Admin\\Desktop\\Linkedin/out.csv', 'Alten'], 'experience_level': [2, 3]}
+./logs/29-Sep-25 00:47:18::__main__::INFO::Welcome to Easy Apply Bot
+./logs/29-Sep-25 00:47:18::__main__::INFO::current directory is : C:\Users\Admin\Desktop\AutoApply\AutoApplyJobs\JobApplierBot\Linkedin\LinkedIn-Easy-Apply-Bot
+./logs/29-Sep-25 00:47:18::__main__::INFO::Please wait while we prepare the bot for you
+./logs/29-Sep-25 00:47:18::__main__::INFO::Applying for experience level roles: Associate, Mid-Senior level
+./logs/29-Sep-25 00:47:18::__main__::INFO::'utf-8' codec can't decode byte 0x96 in position 15: invalid start byte   jobIDs could not be loaded from CSV /Users\Admin\Desktop\Linkedin/out.csv
+./logs/29-Sep-25 00:47:23::__main__::INFO::Logging in.....Please wait :)  
+./logs/29-Sep-25 00:47:55::__main__::INFO::Login successful
+./logs/29-Sep-25 00:47:55::__main__::INFO::Applying to Spring Developer: Bengaluru
+./logs/29-Sep-25 00:47:55::__main__::INFO::Looking for jobs.. Please wait..
+./logs/29-Sep-25 00:48:02::__main__::INFO::Loading next job page?
+./logs/29-Sep-25 00:48:13::__main__::INFO::Looking for jobs.. Please wait..
+./logs/29-Sep-25 00:48:13::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:13::__main__::DEBUG::Sleeping for 2.1
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 1.8
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.3
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 1.5
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 1.9
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 1.5
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.9
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.1
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.2
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.5
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.7
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.3
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.5
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.1
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.0
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.2
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 1.7
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.7
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.1
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.9
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 1.7
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.7
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.6
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.4
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 1.7
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 1.6
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 1.6
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.0
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.5
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 1.8
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.9
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.7
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 1.7
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.7
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 1.5
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.5
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.7
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 1.6
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.4
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.2
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.1
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.7
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.4
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.2
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.0
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.4
+./logs/29-Sep-25 00:48:17::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:17::__main__::DEBUG::Sleeping for 2.3
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.0
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.9
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.2
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.9
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.2
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.1
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.2
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.1
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.9
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.2
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.5
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.5
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.9
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.5
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.3
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.9
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.9
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.2
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.4
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.3
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.2
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.2
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.2
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.9
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.4
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.0
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.5
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.2
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.5
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.1
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.0
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.2
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.5
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.4
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.9
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.5
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.4
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.5
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.1
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.3
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.9
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.4
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.1
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.0
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.2
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.2
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.9
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.3
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.9
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.9
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.5
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.5
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.5
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.9
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.9
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.0
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.9
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.0
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.5
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.3
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.1
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.2
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.5
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.0
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.5
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.5
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.9
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.5
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.2
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.1
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.9
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.0
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.4
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.3
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.0
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.1
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.3
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.3
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.4
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.4
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.0
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.3
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.3
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.4
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.3
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.5
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.2
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.4
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.9
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.3
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.5
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.0
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.4
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.9
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.3
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.3
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.4
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.9
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.9
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.4
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.3
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.2
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.3
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.1
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.0
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.5
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.4
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.2
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.0
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.1
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.5
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.5
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.7
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.5
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.0
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.5
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.9
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.5
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.9
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.2
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.0
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 1.6
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.3
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.1
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.8
+./logs/29-Sep-25 00:48:18::__main__::INFO::59.0 minutes left in this search
+./logs/29-Sep-25 00:48:18::__main__::DEBUG::Sleeping for 2.0

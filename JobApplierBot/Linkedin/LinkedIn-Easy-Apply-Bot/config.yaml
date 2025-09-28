@@ -20,8 +20,7 @@ salary: 60,000
 rate: 25
 # --------- Optional Parameters -------
 uploads:
-  Resume: C:\Users\Admin\Downloads/Anant_cv.pdf
-  #Cover Letter: C:\Users\pavan\Downloads\Pavan_NV_Resume.pdf
+  Resume: C:\Users\Admin\Downloads/Anant_Resume_2025.pdf
   #Photo: # PATH TO photo
 
 
